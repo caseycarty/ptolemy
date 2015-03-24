@@ -1,3 +1,3 @@
 # ptolemy
 Carly Priest
-Casey Carty
+brittanyscott
