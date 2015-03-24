@@ -1,3 +1,2 @@
 # ptolemy
-caseycarty
-brittanyscott
+Carly Priest
